@@ -286,3 +286,15 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+app.config
+packages.config
+Properties/AssemblyInfo.cs
+Properties/Resources.Designer.cs
+Properties/Resources.resx
+rendering/190_schraube_trans.png
+*.png
+symbole/Deckkraft.txt
+TaskpaneHostUI.Designer.cs
+TaskpaneHostUI.resx
+TaskpaneIntegration.cs
+V01.csproj
